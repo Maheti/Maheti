@@ -5,7 +5,11 @@
 - 👋 Hi, I’m Maheti Mehra
 - 👀 I’m interested in Full Stack WebDevelopment
 - 🌱 I’m currently learning React & DSA
-- 💞️ I’m looking to collaborate on any interesting Development Projects
+- 💞️ Open for collaborations with any interesting Full Stack Development Projects
+- 💼 Any freelance work? do reach, [Email](mailto:mahetimehra@gmail.com) :)
+- 💬 Reach me out anytime, open to discussions and happy to help!
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I am ready to explore!!!!
 
 <p align="center">
 <h3>📫 Reach me out at: </h3> 
@@ -59,3 +63,16 @@
 <li><strong>Languages</strong>:   C/C++ ,  Java ,  Python ,  Django ,  Javascript ,  SQL</li>
 <li><strong>WebDevelopment</strong>: &nbsp;  HTML ,  CSS ,  Bootstrap ,  JS ,  REACTJs etc.</li>
 </ul>
+
+### Some Statistics Fun 
+<div align="center">
+<img src='https://github-readme-stats.vercel.app/api?username=Maheti&show_icons=true&theme=tokyonight&count_private=true&line_height=40'  align="left" />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Maheti&theme=tokyonight&hide_langs_below=4' />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Maheti&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+ ![](http://github-readme-streak-stats.herokuapp.com?user=Maheti&theme=blue-green&currStreakNum=DDCF0F&background=010517&border=7BC20F&ring=F80C53&sideNums=65DD16&stroke=07FFE6&fire=FFE600&sideLabels=FFFFFF&dates=4CFF76&currStreakLabel=F7FA0A)
+                                                                   
+<img src="https://activity-graph.herokuapp.com/graph?username=Maheti&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+
+</div>
