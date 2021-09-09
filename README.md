@@ -5,7 +5,7 @@
 - 👀 I’m interested in Full Stack WebDevelopment
 - 🌱 I’m currently learning React & DSA
 - 💞️ Open for collaborations with any interesting Full Stack Development Projects
-- 💼 Any freelance work? do reach, [Email](mailto:mahetimehra@gmail.com) :)
+- 💼 Any freelance work? do reach, [Email](mailto:mahetimehra@gmail.com) 😇
 - 📫 Approach me anytime, open to discussions and happy to help!
 - ⚡ Fun fact: I am an Artist too! I am into all sorts of crafts, designing, sketching, painting etc. More info: &nbsp;<a href="https://www.instagram.com/mm_virtuosic/" rel="nofollow">🎨@mm_virtuosic</a>
 - 😄 Pronouns: She/Her
