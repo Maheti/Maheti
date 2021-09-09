@@ -82,12 +82,11 @@
 <h2>Some Statistics Fun </h2> 
 <div align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=Maheti&show_icons=true&theme=algolia&count_private=true&line_height=40'   />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Maheti&theme=algolia&hide_langs_below=4' height="284px" /><br>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Maheti&theme=algolia&hide_langs_below=4' height="284px" /><br>                 
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Maheti&theme=blue-green&currStreakNum=DDCF0F&background=010517&border=7BC20F&ring=F80C53&sideNums=65DD16&stroke=07FFE6&fire=FFE600&sideLabels=FFFFFF&dates=4CFF76&currStreakLabel=F7FA0A" widht="1600px" height="250px">
 <div>                                                                                                                           
  <img src="https://github-profile-trophy.vercel.app/?username=Maheti&theme=onedark&row=1&column=7" widht="1400px" height="200px" >
- </div>                   
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Maheti&theme=blue-green&currStreakNum=DDCF0F&background=010517&border=7BC20F&ring=F80C53&sideNums=65DD16&stroke=07FFE6&fire=FFE600&sideLabels=FFFFFF&dates=4CFF76&currStreakLabel=F7FA0A" widht="1600px" height="250px">
-
+ </div>  
 <img src="https://activity-graph.herokuapp.com/graph?username=Maheti&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 </div>
